@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rmaduzia&label=Profile%20views&color=0e75b6&style=flat" alt="rmaduzia" /> </p>
 
-- 🔭 I’m currently working on [create-your-own-competition](https://github.com/rmaduzia/create-your-own-competition)
+- 🔭 I’m currently working on [create-your-own-competition](https://github.com/rmaduzia/create-your-own-competition-microservices)
 
 - 🌱 I’m currently learning **Java, Microservices, RabbitMq, Kafka, ELK stack**
 

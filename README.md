@@ -13,6 +13,23 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/rafał-maduzia/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rafał-maduzia/" height="30" width="40" /></a>
 </p>
+</br>
+
+
+[![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=rmaduzia&theme=dark)](https://github.com/ignacio-cuadra/github-readme-codewars)
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/rafi11m?ext=heatmap&theme=dark)
+
+# Statistics for 01.07.2024
+
+| Platform   | Rank     | Points  | Tasks       |
+|------------|----------|---------|-------------|
+| KodeKloud  | 107      | 156,090 | -           |
+| CodeWars   | 6,007    | 2,411   | 684 / X     |
+| LeetCode   | 2,146,784| -       | 27 / 3204   |
+
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">

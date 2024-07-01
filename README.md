@@ -20,6 +20,10 @@
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/rafi11m?ext=heatmap&theme=dark)
 
+</p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rmaduzia&show_icons=true&locale=en&theme=dark" alt="rmaduzia" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rmaduzia&theme=dark" alt="rmaduzia" /></p>
+
 # Statistics for 01.07.2024
 
 | Platform   | Rank     | Points  | Tasks       |
@@ -47,9 +51,7 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
 
-</p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rmaduzia&show_icons=true&locale=en" alt="rmaduzia" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rmaduzia&" alt="rmaduzia" /></p>
 
 
 

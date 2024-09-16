@@ -24,13 +24,13 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rmaduzia&theme=dark" alt="rmaduzia" /></p>
 
-# Statistics for 01.07.2024
+### 📊 **Statistics (as of 16.09.2024)**
 
-| Platform   | Rank     | Points  | Tasks       |
-|------------|----------|---------|-------------|
-| KodeKloud  | 75       | 167 090 | -           |
-| CodeWars   | 5 969    | 2 443   | 698 / X     |
-| LeetCode   | 2 061 510| -       | 32 / 3204   |
+| **Platform** | **Rank**      | **Points**  | **Tasks Completed** |
+|--------------|---------------|-------------|---------------------|
+| 🟦 **KodeKloud**  | **#64**       | **169,890**  | -                   |
+| 🟥 **CodeWars**   | **#5,969**    | **2,459**    | **708 / X**          |
+| 🟨 **LeetCode**   | **#2,040,128**| -           | **33 / 3,204**       |
 
 
 

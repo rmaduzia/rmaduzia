@@ -24,6 +24,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rmaduzia&theme=dark" alt="rmaduzia" /></p>
 
+  &nbsp;
 ### 📊 **Statistics (as of 16.09.2024)**
 
 | **Platform** | **Rank**      | **Points**  | **Tasks Completed** |
@@ -33,7 +34,8 @@
 | 🟨 **LeetCode**   | **#2,040,128**| -           | **33 / 3,204**       |
 
 
-
+&nbsp;
+  
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">

@@ -25,7 +25,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rmaduzia&theme=dark" alt="rmaduzia" /></p>
 
   &nbsp;
-### 📊 **Statistics (as of 16.09.2024)**
+### 📊 **Statistics (as of 30.01.2025)**
 
 | **Platform** | **Rank**      | **Points**  | **Tasks Completed** |
 |--------------|---------------|-------------|---------------------|

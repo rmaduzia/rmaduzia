@@ -25,13 +25,13 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rmaduzia&theme=dark" alt="rmaduzia" /></p>
 
   &nbsp;
-### 📊 **Statistics (as of 24.02.2025)**
+### 📊 **Statistics (as of 03.03.2025)**
 
 | **Platform** | **Rank**      | **Points**  | **Tasks Completed** |
 |--------------|---------------|-------------|---------------------|
-| 🟦 **KodeKloud**  | **#78**       | **171,890**  | -                   |
-| 🟥 **CodeWars**   | **#6,185**    | **2,459**    | **708 / X**          |
-| 🟨 **LeetCode**   | **#1,966,592**| -           | **44 / 3,328**       |
+| 🟦 **KodeKloud**  | **#79**       | **171,890**  | -                   |
+| 🟥 **CodeWars**   | **#6,201**    | **2,459**    | **708 / X**          |
+| 🟨 **LeetCode**   | **#1,951,441**| -           | **45 / 3,328**       |
 
 
 &nbsp;

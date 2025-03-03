@@ -22,7 +22,7 @@
 
 </p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rmaduzia&show_icons=true&locale=en&theme=dark" alt="rmaduzia" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rmaduzia&theme=dark" alt="rmaduzia" /></p>
+<p><img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=rmaduzia&theme=dark" alt="rmaduzia" /></p>
 
   &nbsp;
 ### 📊 **Statistics (as of 03.03.2025)**
